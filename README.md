@@ -1,5 +1,3 @@
-
-
 # ZHW Shoes Layout
 
 You've been hired as a developer to write the code for a shoes website, ZHW. The company has provided a spec for what the site should look like:
